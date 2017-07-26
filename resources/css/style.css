@@ -142,3 +142,8 @@ nav a {
 
 
 /* Footer Section */
+footer {
+  background-color: black;
+  color: white;
+  padding: 5rem 0;
+}
