@@ -48,7 +48,7 @@ header img {
 /* Banner Section */
 .banner {
   height: 25rem;
-  background-image: url("file:///C:/Users/socce/Downloads/atom-windows/projects/SecretAgentSupply//resources/images/moto.jpeg");
+  background-image: url("../images/moto.jpeg");
   background-size: cover;
   background-position: center;
 }
@@ -121,12 +121,24 @@ nav a {
 }
 
 
-/* Location Section */
+/* Business Section */
+.business {
+  display: flex;
+  justify-content: space-between;
+  margin: 3rem 0 4rem 0;
+}
 
+.info {
+  width: 35%;
+}
 
-
-/* Hours Section */
-
+.label {
+  background-color: black;
+  color: white;
+  padding: 1rem 0 1rem 2rem;
+  display: block;
+  margin-bottom: 0.5rem;
+}
 
 
 /* Footer Section */
